@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FoodNutrition</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Food Nutrition</string>
+    <string name="second_fragment_label">Search</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Nutrition Guidance</string>
+    <string name="hello_second_fragment">Search Food: %1$s</string>
+</resources>
